@@ -7,10 +7,18 @@ body {
     color: aliceblue;
 }
 
-.galeria {
+.galeria_cima {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    margin: auto;
+}
+
+.galeria_baixo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: auto;
 }
 
 li {
