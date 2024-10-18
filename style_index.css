@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(to right, #2980b9, #1abc9c);
+}
+.time {
+    display: flex;
+    flex-wrap: wrap;
+}
+.membro {
+    margin: 15px;
+}
+.membro img {
+    border-radius: 50%;
+    margin: 10px;
+}
+.membro div {
+    background: linear-gradient(to right, #1571af, #32d8b7);
+    border-radius: 10%;
+}
