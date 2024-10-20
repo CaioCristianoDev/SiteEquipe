@@ -1,24 +1,25 @@
 body {
     background: linear-gradient(to right, #2980b9, #1abc9c);
 }
-.time {
+
+ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     padding-left: 0;
 }
-.membro {
-    margin: 15px;
-}
-.membro img {
-    border-radius: 50%;
-    margin: 10px;
-}
+
 li {
     text-align: center;
     list-style-type: none;
-    color: beige
+    color: beige;
+    margin: 25px;
 }
+
+li img {
+    border-radius: 50%;
+}
+
 h1 {
     text-align: center;
     color: aliceblue;
